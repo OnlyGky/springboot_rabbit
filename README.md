@@ -1,2 +1,3 @@
-# springboot_rabbit
+# springboot_rabbitMQ
 这是一个关于springboot整合rabbitMQ的简单程序
+其中包含了关于四种交换机的实现和死信队列的实现
