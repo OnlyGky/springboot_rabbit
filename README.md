@@ -1,0 +1,2 @@
+# springboot_rabbit
+这是一个关于springboot整合rabbitMQ的简单程序
